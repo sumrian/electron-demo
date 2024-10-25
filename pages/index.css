@@ -1,0 +1,7 @@
+h1 {
+    background-color: #cccccc;
+}
+body {
+    background: url("./cxt.jpg") ;
+    background-size: cover;
+}
